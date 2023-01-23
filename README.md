@@ -40,6 +40,7 @@ This allows you to access the following variables out of the box:
 | **entity** *       | org.bukkit.entity.Entity         | The target Entity                                                                            |
 | **livingEntity** * | org.bukkit.entity.LivingEntity   | The target Entity cast to LivingEntity                                                       |
 | **player** *       | org.bukkit.entity.Player         | The target Entity cast to Player                                                             | 
+
 *: Refers to the target the executing player is looking at. Not applicable from console or command blocks. Maximum distance is 120 Blocks as per the APIs limitations
 
 ### Useful to know when programming ingame
