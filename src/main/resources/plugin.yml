@@ -1,0 +1,11 @@
+main: de.kryolisc.livedev.LiveDev
+name: LiveDev
+version: 1.0
+api-version: 1.19
+author: Kryolisc
+
+commands:
+  java:
+    usage: /<command> <code>
+  codebook:
+    usage: /<command> <run>
